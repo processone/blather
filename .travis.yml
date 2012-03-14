@@ -11,6 +11,7 @@ rvm:
 gemfile:
   - spec/gemfiles/Gemfile.nokogiri-1.4.7
   - spec/gemfiles/Gemfile.nokogiri-1.5.1
+  - spec/gemfiles/Gemfile.nokogiri-1.5.2
 branches:
   only:
     - travis-matrix
